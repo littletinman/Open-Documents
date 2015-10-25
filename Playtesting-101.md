@@ -9,16 +9,16 @@ So you've been given a copy of a new game to try out and give feedback on: Congr
 
 * <b>Give Specific Feedback</b>: “This is dumb” or “This is boring” is not helpful. A good piece of feedback looks like this:
 
-         “When playing level 14 I found that the monster was too easy to beat. It almost seemed like his punches didn’t effect my character and I could just stand there and punch. As a player I feel that a monster should be harder to beat. Is the easiness here intentional?”
+         <em>“When playing level 14 I found that the monster was too easy to beat. It almost seemed like his punches didn’t effect my character and I could just stand there and punch. As a player I feel that a monster should be harder to beat. Is the easiness here intentional?”</em>
 
 In this piece of feedback you see <b>where</b> you encountered the issues,<b>what</b> you had an issue with, and<b>why</b> you thought this was an issue.
 
 
 * <b>Take Screenshots</b>: “The thing at the top of the screen” is vague, but if you send a screenshot that clearly shows the giant red rectangle in the middle of what should be a Van Gogh painting, no words are really needed beyond “what’s with the big red rectangle.”
 
-        On Windows: select the window you want to take a screenshot of, hold down ALT then press PRINT SCREEN.
+        <em>On Windows: select the window you want to take a screenshot of, hold down ALT then press PRINT SCREEN.</em>
 
-        On Mac: press COMMAND + SHIFT + 4
+        <em>On Mac: press COMMAND + SHIFT + 4</em>
 
 # The “DON’T”s
 
