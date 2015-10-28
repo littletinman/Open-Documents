@@ -34,6 +34,3 @@ If you'd like to use a template for your bug report or feedback, try using somet
 
 
 * <b>Don’t Be Afraid To Be Critical</b>: Some of the most helpful feedback I’ve received has burst my bubble. But when the trampoline kangaroo makes a sudden appearance in my meditative game about transparent circles and you dislike it, tell me: I probably should dislike it too.
-
-
-* <b>Say “It’s Not My Type Of Game”</b>: Chances are that’s why you were asked to try an early copy of the game. One of the worst mistakes a developer can make is to only get feedback from people who absolutely love that “style” of game. I <em>want</em> you to tell me “this type of game bores me because a, b, and c. If you just added such-and-such it might actually make me tolerate it.”
