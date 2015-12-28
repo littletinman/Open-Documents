@@ -33,6 +33,19 @@ This project will use the following specified tools for design, development, pro
 
 ## Design
 
+### Aspect Ratio
+The project's designs must be designed in context to give a consistent feel of resolution an size. An Aspect ratio needs to be defined to act as the baseline for element layout.
+
+**Aspect Ratio**: 16:9
+**Workspace Resolution**: 1920px wide, 1080px tall
+
+### Styles
+For many projects, things like borders, and drop shadows are used. Thes values must be consistent accross all uses.
+
+**Transparency Increment**: 10%
+**Border Transparency**: 10%
+**Space Between Objects**: 4px (scaled)
+
 ## Development
 
 ## Promotion
