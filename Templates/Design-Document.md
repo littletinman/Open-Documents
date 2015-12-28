@@ -50,6 +50,27 @@ For many projects, things like borders, and drop shadows are used. Thes values m
 **Space Between Objects**: 4px (scaled)
 
 ## Development
+Certain development practices should be followed in each project such as code style, structure of asset folders, and even what should be constant.
+
+### Code Style
+**Code Style**: Link you code style to follow
+
+### Asset Folder Structure
+
+- Assets
+  - Visual
+    - General
+    - Menu
+    - Game
+  - Audio
+    - Sounds
+    - Music
+  
+### Singleton Code Objects
+
+- LibGDX Stage should be at Game Level
+- LibGDX TextureMap should be at Game Level
+- Etc.
 
 ## Promotion
 
