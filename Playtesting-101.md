@@ -1,8 +1,8 @@
 # Playtesting 101
 
-First of all: thank you! One of the most amazing things you can do for a game developer is to volunteer your time to testing and giving feedback on thier project. Helping a dev find bugs, understand user frustrations, and make thier game better is possibly the greatest gift you can give them. 
+First of all: thank you! One of the most amazing things you can do for a game developer is to volunteer your time to testing and giving feedback on their project. Helping a dev find bugs, understand user frustrations, and make their game better is possibly the greatest gift you can give them.
 
-Before jumping headlong into sending a bird-shot scattering of thoughts and feedback to the developer, here are a few things that may be helpful to keep in mind when plyatesting thier game. This is by no means a "do or die" list or even the "definitive" list of suggestions. This is just a list of things that have smoothed out the playtesting process when I've handed my games to playtesters. 
+Before jumping headlong into sending a bird-shot scattering of thoughts and feedback to the developer, here are a few things that may be helpful to keep in mind when plyatesting their game. This is by no means a "do or die" list or even the "definitive" list of suggestions. This is just a list of things that have smoothed out the playtesting process when I've handed my games to playtesters. 
 
 
 * <b>Ask Questions</b>: Don’t assume or worse yet “not worry about it.” Ask the developer for clarification on anything and everything. It could be that your question is a result of something not being clearly explained to you: you’ve just found your first “bug”!
