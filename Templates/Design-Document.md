@@ -74,6 +74,16 @@ Certain development practices should be followed in each project such as code st
 
 ## Promotion
 
+This section outlines what promotional images should contain, what platforms things should be shared on, and in what format images and text should be displayed.
+
 ## Documentation
 
+Documentation should be done using the Github wiki to ensure a centralized a shareable place of documenting eveyything from planning to design elements.
+
+**Wordpress Documentation Standards**: https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/php/
+
+**Solid Documentation Example**: https://github.com/atom/atom/blob/master/CONTRIBUTING.md
+
 ## Communication
+
+This section outlines what tools, practices, and people you should reach out to and how you should communicate with them. Either for promotion or just cross-team communication efforts.
