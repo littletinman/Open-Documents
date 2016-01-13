@@ -23,4 +23,25 @@ I'm always looking for ways to develop software with minimal hardware requiremen
 - **SSD**: 250GB
 
 ### Summary
-The main things you want is at least dual core because I just run photoshop and intellij. I'm not into using a gaming machine for development because I find having all that extra power leads to more time gaming and less time programming.
+The main things you want is at least dual core because I just run photoshop and intellij. I'm not into using a gaming machine for development because I find having all that extra power leads to more time gaming and less time programming. The more ram the better and the more cores the better. SSD is a must but do not forget to create monthly backups.
+
+## Operating System
+I've used Mac, Windows, and Ubuntu and my favourite by far is Ubuntu. Unfortunately Photoshop is not available for Ubuntu. Therefore my next choice is Windows 10. Mac is great too, but even after using it exclusively for 2 years, it's still way overpriced for a development workstation unless you are targetting Apple products heavily. 
+
+## Applications
+The tools of the trade!
+
+### Programming
+- Intellij Community Edition <br />
+  *It's clean interface and built in gradle integration is amazing!*
+- Atom <br />
+  *GitHub made a very simple and extensable text editor that I mainly use for documentation, opening singular files outside the project, and writing stories.*
+
+### Design
+- Photoshop <br />
+  *I've grown to love the keyboard shortcuts and non-overwhelming interface that Adobe has maticulously crafted. Worth the $9.99 a month cost.*
+- GIMP <br />
+  *I love all things open source. I want to get back to using this as my main design editor but it still has many confusing elements to it.*
+
+### Cloud/Online
+
