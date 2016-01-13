@@ -32,16 +32,25 @@ I've used Mac, Windows, and Ubuntu and my favourite by far is Ubuntu. Unfortunat
 The tools of the trade!
 
 ### Programming
-- Intellij Community Edition <br />
+- **Intellij Community Edition** <br />
   *It's clean interface and built in gradle integration is amazing!*
-- Atom <br />
+- **Atom** <br />
   *GitHub made a very simple and extensable text editor that I mainly use for documentation, opening singular files outside the project, and writing stories.*
 
 ### Design
-- Photoshop <br />
+- **Photoshop** <br />
   *I've grown to love the keyboard shortcuts and non-overwhelming interface that Adobe has maticulously crafted. Worth the $9.99 a month cost.*
-- GIMP <br />
+- **GIMP** <br />
   *I love all things open source. I want to get back to using this as my main design editor but it still has many confusing elements to it.*
 
 ### Cloud/Online
+Almost all documents or data is stored in cloud services. This decreases the chances of losing work due to total system failure. 
+
+- **GitHub** <br />
+  *Code repo, wiki, documentation, history, you name it.*
+- **Google Apps** <br />
+  *I've tried several other online services like Office 365 and OneDrive and they just weren't worth the cost to me. They offered nothing I couldn't get free and integrated into my email.*
+- **FontStruct** <br />
+  *Best tool out there for making new fonts for your projects.*
+
 
